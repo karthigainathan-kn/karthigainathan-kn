@@ -1,4 +1,4 @@
-About Myself
+#About Myself
 ★ A passionate, self-motivated, data-oriented, problem-solver, with 4+ years of experience working in the analytical field and BI reporting experience to drive complex business solutions using data.
 
 ★ Education background from Masters in Data Analytics and Bachelors in Computer Science Engineering.
